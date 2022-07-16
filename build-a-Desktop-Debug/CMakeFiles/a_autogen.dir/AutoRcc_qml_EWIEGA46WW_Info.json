@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/mrx/Documents/github/qml-practice/build-a-Desktop-Debug/a_autogen",
+	"CMAKE_BINARY_DIR" : "/home/mrx/Documents/github/qml-practice/build-a-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/mrx/Documents/github/qml-practice/build-a-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/mrx/Documents/github/qml-practice/a",
+	"CMAKE_SOURCE_DIR" : "/home/mrx/Documents/github/qml-practice/a",
+	"INCLUDE_DIR" : "/home/mrx/Documents/github/qml-practice/build-a-Desktop-Debug/a_autogen/include",
+	"INPUTS" : [ "/home/mrx/Documents/github/qml-practice/a/main.qml" ],
+	"LOCK_FILE" : "/home/mrx/Documents/github/qml-practice/build-a-Desktop-Debug/CMakeFiles/a_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/mrx/z-mein-apps/qt-6-3/6.3.1/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/mrx/Documents/github/qml-practice/build-a-Desktop-Debug/CMakeFiles/a_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/mrx/Documents/github/qml-practice/a/qml.qrc",
+	"VERBOSITY" : 0
+}
