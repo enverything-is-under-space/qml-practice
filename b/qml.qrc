@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>settings.qml</file>
+    </qresource>
+    <qresource prefix="/timer"/>
+    <qresource prefix="/some"/>
+</RCC>

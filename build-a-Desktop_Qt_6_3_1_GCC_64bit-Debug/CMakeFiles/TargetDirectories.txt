@@ -1,0 +1,6 @@
+/home/mrx/Documents/github/qml-practice/build-a-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/a.dir
+/home/mrx/Documents/github/qml-practice/build-a-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/a_qmlimportscan.dir
+/home/mrx/Documents/github/qml-practice/build-a-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/mrx/Documents/github/qml-practice/build-a-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/mrx/Documents/github/qml-practice/build-a-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/a_autogen_timestamp_deps.dir
+/home/mrx/Documents/github/qml-practice/build-a-Desktop_Qt_6_3_1_GCC_64bit-Debug/CMakeFiles/a_autogen.dir

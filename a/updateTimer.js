@@ -1,29 +1,29 @@
-function updateTimer(h,m)
-{
-    if(m<=59)
-        m++
-    else
-    {
-        m=0;
-        h++;
-    }
+//function updateTimer(h,m)
+//{
+//    if(m<=59)
+//        m++
+//    else
+//    {
+//        m=0;
+//        h++;
+//    }
 
-    return h + ":" + m;
-}
+//    return h + ":" + m;
+//}
 
-function updateMinute(m)
-{
-    if(m<=60)
-    {
-        m=0;
-    }
+//function updateMinute(m)
+//{
+//    if(m<=60)
+//    {
+//        m=0;
+//    }
 
-    return m;
-}
-function updateHour(h)
-{
-    return h;
-}
+//    return m;
+//}
+//function updateHour(h)
+//{
+//    return h;
+//}
 
 function updateTimerWay3(h,m,s)
 {
@@ -45,3 +45,8 @@ function updateTimerWay3(h,m,s)
     return '{"h":'+h+',"m":'+m+',"s":'+s+'}';
 }
 //    return JSON.stringify({h,m});
+
+function changeTextColor(myElement,color)
+{
+    myElement.color = ""+color+"";
+}

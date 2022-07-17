@@ -1,6 +1,8 @@
 import QtQuick 2.15
 import QtQuick.Window 2.15
 import "updateTimer.js" as UT
+
+
 Window
 {
     id:mainWindow
@@ -8,36 +10,22 @@ Window
     height: 80;
     visible: true;
     title: qsTr("Time to Infinity");
-    property int theHour: 23;
-    property int theMinute: 59;
-    property int theSecond: 58;
+    property int theHour: 0;
+    property int theMinute: 0;
+    property int theSecond: 0;
     color: "#00000000";
-    flags: Qt.FramelessWindowHint | Qt.WA_TranslucentBackground;
+    flags: Qt.FramelessWindowHint | Qt.WA_TranslucentBackground | Qt.WindowStaysOnTopHint;
     x:0;
     y:0;
 
+
     Timer
     {
+
         interval: 1000; running: true; repeat: true
         onTriggered:
         {
-            //way 1
-            //myTimerText.text = UT.updateTimer(theHour,theMinute);
 
-            //way 2
-//            theHour = UT.updateHour(theHour);
-//            theMinute = UT.updateMinute(theMinute);
-//            myTimerText.text = theHour + ":" + theMinute;
-
-
-            //way 3
-//            var x = UT.updateTimerWay3(theHour,theMinute);
-//            theHour = x.h;
-//            theMinute = x.m;
-//            myTimerText.text = x;
-
-
-            //way 4
             var allObject = JSON.parse(UT.updateTimerWay3(theHour,theMinute,theSecond));
             theHour = allObject.h;
             theMinute = allObject.m;
@@ -65,6 +53,13 @@ Window
             else
                 myTimerText.text = theHour + ":" + theMinute + ":" +theSecond;
 
+
+
+    
+            if(theSecond<2)
+                UT.changeTextColor(myTimerText,"red");
+            else
+                UT.changeTextColor(myTimerText,"black");
         }
 
     }
