@@ -5,7 +5,11 @@
 	"CMAKE_CURRENT_SOURCE_DIR" : "/home/mrx/Documents/github/qml-practice/a",
 	"CMAKE_SOURCE_DIR" : "/home/mrx/Documents/github/qml-practice/a",
 	"INCLUDE_DIR" : "/home/mrx/Documents/github/qml-practice/build-a-Desktop-Debug/a_autogen/include",
-	"INPUTS" : [ "/home/mrx/Documents/github/qml-practice/a/main.qml" ],
+	"INPUTS" : 
+	[
+		"/home/mrx/Documents/github/qml-practice/a/main.qml",
+		"/home/mrx/Documents/github/qml-practice/a/updateTimer.js"
+	],
 	"LOCK_FILE" : "/home/mrx/Documents/github/qml-practice/build-a-Desktop-Debug/CMakeFiles/a_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "-name", "qml" ],
