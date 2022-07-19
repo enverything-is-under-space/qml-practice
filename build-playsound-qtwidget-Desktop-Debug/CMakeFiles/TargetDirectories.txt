@@ -1,5 +1,0 @@
-/home/mrx/Documents/github/qml-practice/build-playsound-qtwidget-Desktop-Debug/CMakeFiles/playsound-qtwidget.dir
-/home/mrx/Documents/github/qml-practice/build-playsound-qtwidget-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/mrx/Documents/github/qml-practice/build-playsound-qtwidget-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/mrx/Documents/github/qml-practice/build-playsound-qtwidget-Desktop-Debug/CMakeFiles/playsound-qtwidget_autogen_timestamp_deps.dir
-/home/mrx/Documents/github/qml-practice/build-playsound-qtwidget-Desktop-Debug/CMakeFiles/playsound-qtwidget_autogen.dir
