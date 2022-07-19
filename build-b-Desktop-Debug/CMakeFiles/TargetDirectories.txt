@@ -1,6 +1,0 @@
-/home/mrx/Documents/github/qml-practice/build-b-Desktop-Debug/CMakeFiles/b.dir
-/home/mrx/Documents/github/qml-practice/build-b-Desktop-Debug/CMakeFiles/b_qmlimportscan.dir
-/home/mrx/Documents/github/qml-practice/build-b-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/mrx/Documents/github/qml-practice/build-b-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/mrx/Documents/github/qml-practice/build-b-Desktop-Debug/CMakeFiles/b_autogen_timestamp_deps.dir
-/home/mrx/Documents/github/qml-practice/build-b-Desktop-Debug/CMakeFiles/b_autogen.dir
