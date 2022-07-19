@@ -1,8 +1,0 @@
--rootPath
-/home/mrx/Documents/github/qml-practice/a
--cmake-output
--output-file
-/home/mrx/Documents/github/qml-practice/build-a-Desktop_Qt_6_3_1_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_a.cmake
--importPath
-/home/mrx/z-mein-apps/qt-6-3/6.3.1/gcc_64/./qml
-/home/mrx/Documents/github/qml-practice/build-a-Desktop_Qt_6_3_1_GCC_64bit-Debug
