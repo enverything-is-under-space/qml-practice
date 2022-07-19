@@ -1,6 +1,0 @@
-/home/mrx/Documents/github/qml-practice/build-b-project-timer-Desktop-Debug/CMakeFiles/b-project-timer.dir
-/home/mrx/Documents/github/qml-practice/build-b-project-timer-Desktop-Debug/CMakeFiles/b-project-timer_qmlimportscan.dir
-/home/mrx/Documents/github/qml-practice/build-b-project-timer-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/mrx/Documents/github/qml-practice/build-b-project-timer-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/mrx/Documents/github/qml-practice/build-b-project-timer-Desktop-Debug/CMakeFiles/b-project-timer_autogen_timestamp_deps.dir
-/home/mrx/Documents/github/qml-practice/build-b-project-timer-Desktop-Debug/CMakeFiles/b-project-timer_autogen.dir
