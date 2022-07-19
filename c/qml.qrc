@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Centernal.qml</file>
+        <file>ButtonCapture.qml</file>
+        <file>../../../../Downloads/ding-idea-40142.wav</file>
+        <file>LoginUserForm.qml</file>
+    </qresource>
+</RCC>
